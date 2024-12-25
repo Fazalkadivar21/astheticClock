@@ -15,7 +15,7 @@ function App() {
   return (
     <>
       <div className='bg-pink-400 w-screen h-screen flex items-center justify-center'>
-        <div className='text-black text-9xl font-bold,'>{currentTime}</div>
+        <div className='text-black text-9xl font-bold'>{currentTime}</div>
       </div>
     </>
   )
